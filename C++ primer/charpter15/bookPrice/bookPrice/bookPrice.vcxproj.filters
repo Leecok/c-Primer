@@ -21,12 +21,18 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="book_sale.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="bookPrice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="book_sale.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
